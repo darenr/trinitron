@@ -1,7 +1,7 @@
 [project]
 name = "trinitron"
 version = "0.1.0"
-description = "Add your description here"
+description = "Filter an image to look like a photo of a Sony Trinitron CRT"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
